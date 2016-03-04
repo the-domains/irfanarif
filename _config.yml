@@ -1,7 +1,7 @@
 name: irfanarif
 favicon: null
-layout_spectrum: 0.033381874207407236
-typography_spectrum: 0.9359231477137655
+layout_spectrum: 0.00653
+typography_spectrum: 0.19021
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#f2f0fd'
+    - '#051c1e'
+    - '#f1c09c'
+    - '#9f8b7f'
+    - '#b75832'
   brandStrength: 0.9491131354589015
   lightness: 0.38339876173995435
   saturation: 0.9927553243469447
